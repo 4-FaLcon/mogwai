@@ -1,8 +1,17 @@
+********************************************************
+ETHDENVER 2025 Update!!!!!!!!!!
+
+ https://www.google.com/search?q=walmart+thermal+printer&oq=walmart+thermal+printer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCjI0MTM5ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#pvs=0&oshopproduct=gid:14749531635230207023,mid:576462813627866715,oid:9898510862179736551,iid:17543297358764239666,rds:UENfMTQ3NDk1MzE2MzUyMzAyMDcwMjN8UFJPRF9QQ18xNDc0OTUzMTYzNTIzMDIwNzAyMw%3D%3D,pvt:hg,pvo:3,laoid:9898510862179736551&oshop=apv
+
+
+
+*********************************************************
+
+
 The point of this project is to present working demonstrations of "Web3". The term means different things to different people, but I want to share what
 it means to me. Then people can better judge for themselves. I will probably create many sub-projects that are all pretty simple. When I first imagined
-this project, I did some work with the Godot game developement API. It seems as if academia hasn't quite embraced Godot as a game-development solution, but
-I find it useful because it is open-source. Almost any crypto/blockchain related project built with a more commercial engine would potential run into issues as 
-things such as NFTs seem to be banned.
+this project, I did some work with the Godot game developement API. It seems as if academia hasn't quite embraced Godot as a game-development solution, 
+but I find it useful because it is open-source. Almost any crypto/blockchain related project built with a more commercial engine would potential run into issues as things such as NFTs seem to be banned.
 
 I am a data hacker. If you want to understand more about what this means, then you might take a look at Paul Graham's book/site:
 
